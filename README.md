@@ -1,2 +1,3 @@
-# fundamentos-aws-cli-basico
-Fundamentos AWS CLI Básico
+# Fundamentos AWS CLI Básico
+
+La práctica esta [aquí](https://github.com/alvarolinarescabre/fundamentos-aws-cli-basico/wiki)
